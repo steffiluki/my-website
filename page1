@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Stefanie Lukner</title>
+</head>
+
+<body>
+
+  <h1>Welcome to my website!</h1>
+
+  <table class='table'>
+    <tr>
+      <th>Name</th>
+      <td>Stefanie Lukner</td>
+    </tr>
+    <tr>
+      <th>Age</th>
+      <td>23</td>
+    </tr>
+    <tr>
+      <th>City of Birth</th>
+      <td>Vienna, Austria</td>
+    </tr>
+    <tr>
+      <th>City of Residence</th>
+      <td>Newcastle Upon Tyne, UK</td>
+    </tr>
+  </table>
+
+  <p> Hobbies: </p>
+<ul>
+	<li>Exercising</li>
+	<li>Climbing</li>
+	<li>Tennis</li>
+	<li>Travelling</li>
+	<li>Eating great food</li>
+	<li>Technology</li></ul>
+<p>This is me:</p>
+ <img src="./IMGP9650-Edit.jpg" alt="Stefanie Lukner">
+	</body>
+</html>
